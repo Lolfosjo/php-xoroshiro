@@ -1,1 +1,3 @@
-# xoroshiro-minecraft-port
+# xoroshiro for php
+
+**AI written PHP Extension**
