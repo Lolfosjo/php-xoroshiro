@@ -6,5 +6,5 @@ PHP_ARG_ENABLE([xoroshiro],
   [yes])
 
 if test "$PHP_XOROSHIRO" != "no"; then
-  PHP_NEW_EXTENSION(xoroshiro, xoroshiro.c, $ext_shared)
+  PHP_NEW_EXTENSION(xoroshiro, src/xoroshiro.c, $ext_shared)
 fi
