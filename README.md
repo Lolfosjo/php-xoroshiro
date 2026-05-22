@@ -121,3 +121,10 @@ The implementation is based on publicly documented algorithms and observed compa
 ## License
 
 MIT License.
+
+
+
+
+---
+
+*This project was developed with AI assistance.*
